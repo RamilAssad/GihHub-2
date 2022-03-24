@@ -5,5 +5,8 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "1";
+    int a, b;
+    a = 12;
+    b = 13;
 }
 

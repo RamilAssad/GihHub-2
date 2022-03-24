@@ -8,6 +8,6 @@ int main()
     int a, b;
     a = 12;
     b = 13;
-    cout << "a = " << a;
+    cout << "a = " << a << "b = " << b;
 }
 
